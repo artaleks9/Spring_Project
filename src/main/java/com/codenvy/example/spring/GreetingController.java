@@ -1,5 +1,5 @@
 package com.codenvy.example.spring;
-// contib - testing PR
+//qa-testing
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
 
